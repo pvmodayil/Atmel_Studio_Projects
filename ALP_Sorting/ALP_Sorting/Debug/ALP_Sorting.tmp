@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>H:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>H:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>H:/7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\Debug\ALP_Sorting.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ALP_Sorting.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ALP_Sorting.map</FILE>
+  <FILE>ALP_Sorting.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <outloop><FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</FILE><LINE>14</LINE></outloop>
+  <inloop><FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</FILE><LINE>18</LINE></inloop>
+  <swp><FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</FILE><LINE>31</LINE></swp>
+  <back><FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</FILE><LINE>23</LINE></back>
+  <end><FILE>E:\Atmel_Studio_Projects\ALP_Sorting\ALP_Sorting\main.asm</FILE><LINE>28</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
